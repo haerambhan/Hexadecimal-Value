@@ -1,0 +1,41 @@
+body
+{
+  text-align: center;
+  font-family: helvetica;
+  background-color:lavender;
+}
+h1
+{
+  margin:1em;
+  font-size: 3em;
+  color: darkblue;
+}
+input
+{
+  border:none;
+  border-radius: 15px;
+  width:30%;
+  padding: 10px;
+}
+button
+{
+  margin-left: 10px;
+  padding: 10px 20px;
+  border:none;
+  background-color: darkblue;
+  color:lavender;
+}
+button:hover
+{
+  background-color: #13073A;
+}
+.color
+{
+  border-radius: 15px;
+  border:1px solid darkblue;
+  background-color: lavender;
+  width: 20%;
+  height:100px;
+  margin:auto;
+  margin-top: 50px;
+}
